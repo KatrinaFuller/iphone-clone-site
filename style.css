@@ -37,3 +37,8 @@ p{
   background-color: #71c7ec;
   min-height: 70vh;
 }
+
+.bottom-black{
+  background-color: #262626;
+  min-height: 20vh;
+}
