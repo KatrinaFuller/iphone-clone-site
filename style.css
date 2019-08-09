@@ -22,3 +22,13 @@ p{
   border-radius: 16px;
   color: white;
 }
+
+.light-gray1{
+  background-color: #f2f2f2;
+  min-height: 25vh;
+}
+
+.light-gray2{
+  background-color: #f2f2f2;
+  min-height: 35vh;
+}
