@@ -1,23 +1,24 @@
-.iphone{
-  background-image: url('iphone.png');
-  background-size: cover;
-  min-height: 72vh;
-}
-
-p {
-  font-size: 12px;
-}
-
-.button-color{
-  background-color: #1b85b8;
-  color: white;
-  border-radius: 16px;
+.top-row{
+  background-color: #71c7ec;
+  min-height: 15vh;
 }
 
 .logo{
   font-family: 'Dancing Script', cursive;
 }
 
-.blank-row{
-  height: 100px;
+.second-blue-row{
+  background-color: #71c7ec;
+  min-height: 48vh;
+}
+
+p{
+  font-size: 12px;
+}
+
+.button-color{
+  background-color: #189ad3;
+  border-color: #189ad3;
+  border-radius: 16px;
+  color: white;
 }
