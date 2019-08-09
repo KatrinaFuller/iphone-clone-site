@@ -1,0 +1,23 @@
+.iphone{
+  background-image: url('iphone.png');
+  background-size: cover;
+  min-height: 72vh;
+}
+
+p {
+  font-size: 12px;
+}
+
+.button-color{
+  background-color: #1b85b8;
+  color: white;
+  border-radius: 16px;
+}
+
+.logo{
+  font-family: 'Dancing Script', cursive;
+}
+
+.blank-row{
+  height: 100px;
+}
